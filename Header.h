@@ -62,9 +62,7 @@ public:
 		this->assignee = assignee;
 	}
 
-	~Bug() {
-
-	}
+	~Bug() {}
 
 private:
 	string description;
